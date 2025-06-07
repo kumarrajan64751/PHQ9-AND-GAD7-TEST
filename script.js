@@ -107,8 +107,7 @@ function showResults() {
   ) {
     recommendation = `
       <p>Based on your responses, you may benefit from incorporating mindfulness exercises and techniques to maintain your mental health.</p>
-      <p><a href="mindfulness.html" target="_blank">Explore Mindfulness Exercises</a></p>
-      <p><a href="techniques.html" target="_blank">Learn Mental Health Techniques</a></p>
+      <p><a href="https://kumarrajan64751.github.io/Mindfulness-and-mental-Wellness/" target="_blank">Explore Mindfulness Exercises</a></p>
     `;
   } else {
     recommendation = `
